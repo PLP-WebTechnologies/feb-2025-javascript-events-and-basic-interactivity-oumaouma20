@@ -4,7 +4,7 @@ Welcome to the **ultimate JavaScript playground**! 🎉 This assignment is where
 
 ## 📁 Assignment Structure
 
-```
+```c
 📂 js-event-assignment/
 ├── index.html         # Your playground – where it all comes together
 ├── style.css          # Keep it cute (optional but encouraged)
